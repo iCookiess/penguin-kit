@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 160" width="240" height="640">
+  <!-- «Телескоп». Стоит на полу (y = 151), рамка 60×160. -->
+  <!-- Группа guide — линия пола, на сайт не попадает. -->
+  <g id="guide"><path d="M0 151 H60" stroke="#999" stroke-dasharray="2 2"/></g>
+  <g id="body"><path d="M30 104 L13 151 M30 104 L47 151 M30 104 L31 151" stroke="#3b3f4a" stroke-width="2.6" stroke-linecap="round"/><g transform="rotate(-32 30 100)"><rect x="4" y="93" width="44" height="13" rx="3" fill="#e0544e"/><rect x="44" y="91" width="9" height="17" rx="2" fill="#3b3f4a"/><rect x="0" y="96" width="5" height="7" rx="1" fill="#3b3f4a"/><rect x="20" y="93" width="3" height="13" fill="#3b3f4a"/></g><circle cx="30" cy="102" r="3" fill="#3b3f4a"/></g>
+</svg>

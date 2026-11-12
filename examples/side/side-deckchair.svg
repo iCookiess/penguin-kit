@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 160" width="240" height="640">
+  <!-- «Шезлонг». Стоит на полу (y = 151), рамка 60×160. -->
+  <!-- Группа guide — линия пола, на сайт не попадает. -->
+  <g id="guide"><path d="M0 151 H60" stroke="#999" stroke-dasharray="2 2"/></g>
+  <g id="body"><path d="M21 92 L29 92 Q30 117 38 127 L53 125 L53 130 L36 133 Q24 122 21 92Z" fill="#f2836b"/><path d="M24 104 L30 104 M26 114 L33 114 M30 123 L37 122 M41 129 L46 128" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round"/><path d="M12 151 L24 91 M50 151 L37 117 M9 137 L55 129" stroke="#a8724a" stroke-width="3" stroke-linecap="round"/><path d="M24 91 L29 91" stroke="#a8724a" stroke-width="3" stroke-linecap="round"/></g>
+</svg>

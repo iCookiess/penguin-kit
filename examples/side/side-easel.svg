@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 160" width="240" height="640">
+  <!-- «Мольберт». Стоит на полу (y = 151), рамка 60×160. -->
+  <!-- Группа guide — линия пола, на сайт не попадает. -->
+  <g id="guide"><path d="M0 151 H60" stroke="#999" stroke-dasharray="2 2"/></g>
+  <g id="body"><path d="M30 48 L31 151" stroke="#8a5a3a" stroke-width="3"/><path d="M30 48 L12 151 M30 48 L48 151" stroke="#a8724a" stroke-width="3.5" stroke-linecap="round"/><rect x="8" y="58" width="44" height="36" rx="1.5" fill="#fbf8f2" stroke="#e6dccb" stroke-width="2"/><rect x="11" y="61" width="38" height="30" fill="#fde4e4"/><circle cx="38" cy="70" r="5" fill="#f2836b"/><path d="M11 91 V82 Q20 74 30 81 Q40 76 49 82 V91Z" fill="#6cc48a"/><rect x="6" y="94" width="48" height="4" rx="1" fill="#8a5a3a"/></g>
+</svg>

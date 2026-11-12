@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 160" width="240" height="640">
+  <!-- «Снеговик». Стоит на полу (y = 151), рамка 60×160. -->
+  <!-- Группа guide — линия пола, на сайт не попадает. -->
+  <g id="guide"><path d="M0 151 H60" stroke="#999" stroke-dasharray="2 2"/></g>
+  <g id="body"><path d="M18 104 L4 94 M42 104 L56 92 M8 97 l-3 -5 M52 95 l2 -5" stroke="#8a5a3a" stroke-width="2" stroke-linecap="round"/><circle cx="30" cy="133" r="18" fill="#ffffff" stroke="#d8dee8" stroke-width="1.5"/><circle cx="30" cy="105" r="13" fill="#ffffff" stroke="#d8dee8" stroke-width="1.5"/><circle cx="30" cy="82" r="10" fill="#ffffff" stroke="#d8dee8" stroke-width="1.5"/><circle cx="26.5" cy="80" r="1.5" fill="#3b3f4a"/><circle cx="33.5" cy="80" r="1.5" fill="#3b3f4a"/><path d="M30 84 L39 86 L30 87Z" fill="#f29a3a"/><path d="M20 92 Q30 96 40 92 L40 95.5 Q30 100 20 95.5Z" fill="#e0544e"/><path d="M34 96 L37 106 L33 106 L31 97Z" fill="#e0544e"/><circle cx="30" cy="104" r="1.6" fill="#3b3f4a"/><circle cx="30" cy="111" r="1.6" fill="#3b3f4a"/><circle cx="30" cy="128" r="1.8" fill="#3b3f4a"/><circle cx="30" cy="136" r="1.8" fill="#3b3f4a"/></g>
+</svg>
